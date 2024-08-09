@@ -1,0 +1,10 @@
+<Device Model="CP4">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="Crestron_App" DeviceId="03" Name="iPad01"/>
+      <Device Model="Crestron_App" DeviceId="04" Name="iPad02"/>
+      <Device Model="DM-NAX-8ZSA" DeviceId="10"/>
+      <Device Model="DM-NVX-36x" DeviceId="20" Name="DM-NVX-360-Private-Dining-2.14 Room07"/>
+      <Device Model="DM-NVX-D200" DeviceId="21" Name="DM-NVX-D200-Private-Dining-2.04 Room06"/>
+   </Network>
+</Device>
