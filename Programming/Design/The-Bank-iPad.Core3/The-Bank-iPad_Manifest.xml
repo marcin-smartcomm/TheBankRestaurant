@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='ISO-8859-1' ?>
 <File Type='Manifest' Version='6.1.0' ObjectDisplayList='4'>
-<Project FileName='The-Bank-iPad.zip' Size='1924537' Build='20240910162024'>
+<Project FileName='The-Bank-iPad.zip' Size='1930079' Build='20240916140219'>
 <Sources>
-<Source FileName='The-Bank-iPad.xml' Size='538' Type='Application' Build='20240910162024' MinimumSGVersion='2.11.05.00' />
+<Source FileName='The-Bank-iPad.xml' Size='538' Type='Application' Build='20240916140219' MinimumSGVersion='2.11.05.00' />
 </Sources>
 </Project>
 </File>
