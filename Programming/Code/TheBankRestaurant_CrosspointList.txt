@@ -1,0 +1,22 @@
+Crosspoint listing for C:\Users\Marcin.Rycyk\Desktop\Smartcomm\PROJECTS\TheBankRestaurant\Programming\Code\TheBankRestaurant.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-3.2.1.1.1                                                                                         1001
+S-3.2.2.1.1                                                                                         1002
+S-3.2.3.1.1                                                                                         1003
+S-3.2.4.1.1                                                                                         1004
+S-3.2.5.1.1                                                                                         1005
+S-3.2.6.1.1                                                                                         1006
+S-3.2.7.1.1                                                                                         1007
+S-3.2.8.1.1                                                                                         1008
+S-3.2.9.1.1                                                                                         1009
+S-3.2.10.1.1                                                                                        1010
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-3.3.1.1                                                                                           2001
+S-3.3.2.1                                                                                           2002
+
